@@ -1,4 +1,4 @@
-# 🐦 X Clone (Twitter UI Clone)
+# X Clone (Twitter UI Clone)
 
 A responsive **X (formerly Twitter) Clone** built using **HTML** and **Tailwind CSS**. This project recreates the modern user interface of X with a clean, responsive design that works across different screen sizes.
 
