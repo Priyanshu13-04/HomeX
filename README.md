@@ -8,7 +8,7 @@ A responsive **X (formerly Twitter) Clone** built using **HTML** and **Tailwind 
 
 ## 📸 Preview
 
-> Add screenshots of your project here.
+![X Clone Homepage](images/homepage.png)
 
 ## ✨ Features
 
