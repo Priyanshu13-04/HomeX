@@ -66,15 +66,6 @@ Through this project, I practiced:
 * Improving frontend development skills
 * Writing clean and maintainable code
 
-## 📌 Future Improvements
-
-* Dark/Light mode toggle
-* Interactive sidebar
-* Authentication
-* Post creation functionality
-* Like, comment, repost, and bookmark features
-* Backend integration
-* User profile pages
 
 ## 🤝 Contributing
 
